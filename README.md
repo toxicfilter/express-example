@@ -1,5 +1,3 @@
-<a href="https://toxicfilter.com"><img src="art/logo.png" alt="ToxicFilter" width="96"></a>
-
 # ToxicFilter example: Express
 
 A comment wall moderated with [ToxicFilter](https://toxicfilter.com), built with Express and the JavaScript SDK ([toxicfilter/js-sdk](https://github.com/toxicfilter/js-sdk)). Somebody posts a comment and ToxicFilter decides:
