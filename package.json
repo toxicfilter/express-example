@@ -1,0 +1,19 @@
+{
+  "name": "toxicfilter-express-example",
+  "private": true,
+  "description": "A comment wall moderated with ToxicFilter in Express: allow, review or block, with a signed webhook.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "toxicfilter-sdk": "^1.1.3"
+  },
+  "author": "Edu Lazaro (https://edulazaro.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/toxicfilter/express-example"
+}
